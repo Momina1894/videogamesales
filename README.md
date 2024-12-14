@@ -1,1 +1,1 @@
-# videogamesales
+This was my masters project for my first semester under the course database systems where I extracted data, loaded it into SQL and did some EDA on it. I loaded the data into power BI using the insert tables query instead of DAX queries and then made 15 visualizations. 
